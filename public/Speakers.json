@@ -1,0 +1,45 @@
+[
+    {
+      "id":1,
+      "name": "Alice Smith",
+      "image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+      "designation": "Senior Software Engineer",
+      "company": "Tech Innovations Inc."
+    },
+    {
+        "id":2,
+      "name": "Bob Johnson",
+      "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+      "designation": "Marketing Director",
+      "company": "Global Marketing Solutions"
+    },
+    {
+        "id":3,
+      "name": "Emily Lee",
+      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707609600&semt=sph",
+      "designation": "Data Scientist",
+      "company": "Data Insights Co."
+    },
+    {
+        "id":4,
+      "name": "Michael Brown",
+      "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+      "designation": "CEO",
+      "company": "Brown Enterprises"
+    },
+    {
+        "id":5,
+      "name": "Sophia Garcia",
+      "image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+      "designation": "Product Manager",
+      "company": "Tech Solutions Ltd."
+    },
+    {
+        "id":6,
+      "name": "David Chen",
+      "image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+      "designation": "Research Scientist",
+      "company": "Innovate Labs"
+    }
+  ]
+  
