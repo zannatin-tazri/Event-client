@@ -14,7 +14,7 @@ const EventDetailsOffline = () => {
                 </div>
                 
             </div>
-            <ul className="md:ms-80 me-64 mx-auto w-1/5 lg:w-1/2 timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
+            <ul className="md:ms-80 ms-11 mx-auto lg:w-1/2 timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
                         <li>
                             <div className="timeline-middle my-7">
                                 <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">9AM - 10AM</time>
