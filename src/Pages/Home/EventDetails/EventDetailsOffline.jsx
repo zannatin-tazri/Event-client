@@ -14,7 +14,8 @@ const EventDetailsOffline = () => {
                 </div>
                 
             </div>
-            <ul className="md:ms-80 ms-11 mx-auto lg:w-1/2 timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
+            <div className="p-10">
+            <ul className="md:ms-80 md:ps-2 pe-2 me-80 lg:mx-auto lg:w-1/2 timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
                         <li>
                             <div className="timeline-middle my-7">
                                 <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">9AM - 10AM</time>
@@ -22,8 +23,8 @@ const EventDetailsOffline = () => {
                             <div className="timeline-start mt-8 mb-10">
                                 <div className="card lg:w-96 lg:h-44 w-80 h-48 bg-base-100 shadow-lg shadow-red-200">
 
-                                    <div className="card-body items-center text-center p-2">
-                                    <div className="lg:hidden absolute ">
+                                    <div className="card-body items-center text-center p-2 relative">
+                                        <div className="lg:hidden absolute ">
                                             <p className="text-xs p-3 text-white my-2 me-48 border rounded-lg bg-gradient-to-r from-purple-600 to-red-600">10 AM - 11 AM</p>
                                         </div>
                                         <div className="avatar">
@@ -46,10 +47,10 @@ const EventDetailsOffline = () => {
 
                             </div>
                             <div className="timeline-end mt-8  mb-10">
-                                <div className="card lg:w-96 lg:h-44 w-80 h-48 bg-base-100 shadow-lg shadow-red-200">
+                                <div className="card lg:w-96 lg:h-44 w-80  h-48 bg-base-100 shadow-lg shadow-red-200">
 
                                     <div className="card-body p-2 items-center text-center">
-                                    <div className="lg:hidden absolute ">
+                                        <div className="lg:hidden absolute ">
                                             <p className="text-xs p-3 text-white my-2 me-48 border rounded-lg bg-gradient-to-r from-purple-600 to-red-600">10 AM - 11 AM</p>
                                         </div>
                                         <div className="avatar">
@@ -61,11 +62,12 @@ const EventDetailsOffline = () => {
                                         <p className="text-sm">laborum magni neque reiciendis voluptatibus perspiciatis eos explicabo expedita odio cum nobis?</p>
 
                                     </div>
-                                </div>                              </div>
+                                </div>
+                            </div>
                             <hr className="hidden sm:block" />
                         </li>
                         <li>
-                            <hr />
+                            <hr className="hidden sm:block" />
                             <div className="timeline-middle my-7">
                                 <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2  p-1 rounded-full border-red-700">9AM - 10AM</time>
                             </div>
@@ -73,7 +75,7 @@ const EventDetailsOffline = () => {
                                 <div className="card lg:w-96 lg:h-44 w-80 h-48 bg-base-100 shadow-lg shadow-red-200">
 
                                     <div className="card-body p-2 items-center text-center">
-                                    <div className="lg:hidden absolute ">
+                                        <div className="lg:hidden absolute ">
                                             <p className="text-xs p-3 text-white my-2 me-48 border rounded-lg bg-gradient-to-r from-purple-600 to-red-600">10 AM - 11 AM</p>
                                         </div>
                                         <div className="avatar">
@@ -85,11 +87,12 @@ const EventDetailsOffline = () => {
                                         <p className="text-sm">laborum magni neque reiciendis voluptatibus perspiciatis eos explicabo expedita odio cum nobis?</p>
 
                                     </div>
-                                </div>                              </div>
+                                </div>
+                            </div>
                             <hr className="hidden sm:block" />
                         </li>
                         <li>
-                            <hr />
+                            <hr className="hidden sm:block" />
                             <div className="timeline-middle my-7">
                                 <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2  p-1 rounded-full border-red-700">9AM - 10AM</time>
                             </div>
@@ -97,7 +100,7 @@ const EventDetailsOffline = () => {
                                 <div className="card lg:w-96 lg:h-44 w-80 h-48 bg-base-100 shadow-lg shadow-red-200">
 
                                     <div className="card-body p-2 items-center text-center">
-                                    <div className="lg:hidden absolute ">
+                                        <div className="lg:hidden absolute ">
                                             <p className="text-xs p-3 text-white my-2 me-48 border rounded-lg bg-gradient-to-r from-purple-600 to-red-600">10 AM - 11 AM</p>
                                         </div>
                                         <div className="avatar">
@@ -109,11 +112,14 @@ const EventDetailsOffline = () => {
                                         <p className="text-sm">laborum magni neque reiciendis voluptatibus perspiciatis eos explicabo expedita odio cum nobis?</p>
 
                                     </div>
-                                </div>                              </div>
+                                </div>
+                            </div>
 
                         </li>
 
                     </ul>
+            </div>
+            
 
 
 
