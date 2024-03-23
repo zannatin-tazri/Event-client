@@ -11,7 +11,7 @@ const Time = () => {
     } else {
       // Render a countdown
       return <div className=" text-center p-8 gap-4">
-      <p className="md:ms-44 lg:ms-32 rounded-lg lg:w-3/4 lg:absolute lg:-bottom-12 lg:mx-72 lg:text-2xl absolute -bottom-8 mr-8 text-xs shadow-lg shadow-indigo-200 bg-gradient-to-r from-purple-600 to-red-600 p-8">
+      <p className="md:ms-44 lg:ms-32 rounded-lg lg:w-3/4 lg:absolute lg:-bottom-12 lg:mx-72 lg:text-2xl absolute -bottom-14 mr-8 text-xs shadow-lg shadow-indigo-200 bg-gradient-to-r from-purple-600 to-red-600 p-8">
          <span className="text-xl md:text-4xl font-bold">{days} <span className="text-sm">Days</span></span> :
          <span className="text-xl md:text-4xl font-bold">{hours} <span className="text-sm">Hours</span> </span> :
          <span className="text-xl md:text-4xl font-bold">{minutes} <span className="text-sm">Minutes</span> </span> :

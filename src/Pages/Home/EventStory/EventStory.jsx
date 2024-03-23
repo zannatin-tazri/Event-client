@@ -8,7 +8,7 @@ const EventStory = () => {
       <aside className="border-dashed border-2 border-red-300 rounded-lg">
         <section className="file-marker">
           <div className="flex items-center">
-            <div className="bg-white font-semibold lg:text-2xl text-indigo-500 text-lg inline-block px-2 py-1 -mt-6 ml-32">
+            <div className="sm:block hidden bg-white font-semibold lg:text-2xl text-indigo-500 text-lg  px-2 py-1 -mt-6 ml-32">
               Event Story
             </div>
 
