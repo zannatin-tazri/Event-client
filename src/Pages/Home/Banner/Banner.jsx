@@ -10,8 +10,8 @@ const Banner = () => {
         >
             <div className="flex justify-center items-center lg:h-full text-center">
                 <div className="bg-gray-800/20 text-white p-8 mt-48">
-                    <h1 className="text-3xl lg:text-5xl font-bold">AI Expert Career Event 2023</h1>
-                    <p className="mt-2 text-xl font-semibold">January 22, 2024</p>
+                    <h1 className="text-3xl lg:text-5xl font-bold">Career Event 2025</h1>
+                    <p className="mt-2 text-xl font-semibold">January 22, 2025</p>
                     <p className="mt-2">4000 SEATS • 10 SPEAKERS • DHAKE, BANGLADESH</p>
                     <Link to='/form'><button className="mt-4 bg-white text-black px-6 py-2 border-red-600 rounded-full font-bold hover:bg-red-600 p-8">
                         Book Now

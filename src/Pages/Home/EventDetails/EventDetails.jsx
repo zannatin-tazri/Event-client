@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
 
 
-
-
 const EventDetails = () => {
 
 
@@ -133,7 +131,7 @@ const EventDetails = () => {
                     <ul className="md:ms-80 md:ps-2 pe-2 me-80 lg:mx-auto lg:w-1/2 timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
                         <li>
                             <div className="timeline-middle my-7">
-                                <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">9AM - 10AM</time>
+                                <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">11AM - 12AM</time>
                             </div>
                             <div className="timeline-start mt-8 mb-10">
                                 <div className="card lg:w-96 lg:h-44 w-80 h-48 bg-base-100 shadow-lg shadow-red-200">
@@ -244,7 +242,7 @@ const EventDetails = () => {
                     <ul className="md:ms-80 md:ps-2 pe-2 me-80 lg:mx-auto lg:w-1/2 timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
                         <li>
                             <div className="timeline-middle my-7">
-                                <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">9AM - 10AM</time>
+                                <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">1PM - 2PM</time>
                             </div>
                             <div className="timeline-start mt-8 mb-10">
                                 <div className="card lg:w-96 lg:h-44 w-80 h-48 bg-base-100 shadow-lg shadow-red-200">
@@ -269,7 +267,7 @@ const EventDetails = () => {
                         <li>
                             <hr className="hidden sm:block" />
                             <div className="timeline-middle my-7">
-                                <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">9AM - 10AM</time>
+                                <time className="hidden sm:block text-red-700 lg:border-dotted lg:border-2 text-xs lg:text-sm lg:py-8 lg:m-2 p-1 rounded-full border-red-700">1PM - 2PM</time>
 
                             </div>
                             <div className="timeline-end mt-8  mb-10">
